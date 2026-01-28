@@ -1,0 +1,29 @@
+<div class="my-3">
+    <div class="card border-0 shadow-sm bg-white">
+        <div class="card-body p-4">
+            <div class="row px-3 pt-3">
+                <div class="col h3">
+                    <i class="fas fa-graduation-cap"></i> Education
+                </div>
+            </div>
+            <div class="row px-3 pb-3">
+                <div class="col">
+                    {% for edu in site.data.profile.education %}
+                    <div class="row py-2">
+                        {% if edu.logo %}
+                        <div class="col-auto">
+                            <img src="{{ edu.logo | relative_url }}" alt="{{ edu.name }}" style="height: 40px;">
+                        </div>
+                        {% endif %}
+                        <div class="col">
+                            <strong>{{ edu.name }}</strong><br/>
+                            <span class="text-muted">{{ edu.position }}</span><br/>
+                            <span class="small text-muted">{{ edu.date }}</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

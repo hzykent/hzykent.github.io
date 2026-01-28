@@ -1,0 +1,54 @@
+primary_name: "Zeyu Hu"
+secondary_name: "胡泽宇"
+navbar_name: "Zeyu Hu"
+
+positions:
+- name: Senior Researcher
+- name: LightSpeed Studios Singapore
+  logo: /assets/images/badges/lightspeed.jpg
+
+email: "zhuam@connect.ust.hk"
+cv_link: /assets/data/CV_Zeyu_HU.pdf
+gscholar: 2QstgG4AAAAJ
+github: hzykent
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    A senior researcher at <a href="https://www.lightspeed-studios.com/">LightSpeed Studios Singapore</a>, feel free to reach out. 
+  </p>
+  <p>
+    I obtained my Ph.D. degree (2018-2023) at the <a href="http://visgraph.cse.ust.hk/">Vision and Graphics Group</a>, part of the Department of Computer Science and Engineering at <a href="https://www.ust.hk/">the Hong Kong University of Science and Technology</a>. My Ph.D. advisor was <a href="http://www.cse.ust.hk/~taicl/">Prof. Chiew-Lan Tai</a>, and I also worked closely with <a href="https://www.cse.ust.hk/~quan/">Prof. Long Quan</a> and <a href="http://sweb.cityu.edu.hk/hongbofu/">Prof. Hongbo Fu</a>.
+  </p>
+  <p>
+    Before joining HKUST, I received a Bachelor's degree in Automation from the <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a> in 2018.
+  </p>
+  <p>
+    Working on game related AI research and development now.
+  </p>
+
+portrait_url: /assets/images/photos/zeyu_hu.jpg
+# portrait_caption: >-
+#   Photo caption here
+
+education:
+- name: Hong Kong University of Science and Technology
+  logo: /assets/images/badges/hkust.png
+  position: Ph.D. in Computer Science and Engineering
+  date: Sep. 2018 - Jul. 2023
+- name: University of Science and Technology of China
+  logo: /assets/images/badges/ustc.png
+  position: B.S. in Automation
+  date: Sep. 2014 - Jul. 2018
+
+experience:
+- name: LightSpeed Studios, China
+  logo: /assets/images/badges/lightspeed.jpg
+  position: Research Intern
+  date: Aug. 2020 - Jan. 2023
+- name: LightSpeed Studios, Singapore
+  logo: /assets/images/badges/lightspeed.jpg
+  position: Senior Researcher
+  date: Mar. 2023 - Present
+
+awards:

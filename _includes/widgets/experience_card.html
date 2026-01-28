@@ -1,0 +1,29 @@
+<div class="my-3">
+    <div class="card border-0 shadow-sm bg-white">
+        <div class="card-body p-4">
+            <div class="row px-3 pt-3">
+                <div class="col h3">
+                    <i class="fas fa-briefcase"></i> Experience
+                </div>
+            </div>
+            <div class="row px-3 pb-3">
+                <div class="col">
+                    {% for exp in site.data.profile.experience %}
+                    <div class="row py-2">
+                        {% if exp.logo %}
+                        <div class="col-auto">
+                            <img src="{{ exp.logo | relative_url }}" alt="{{ exp.name }}" style="height: 40px;">
+                        </div>
+                        {% endif %}
+                        <div class="col">
+                            <strong>{{ exp.name }}</strong><br/>
+                            <span class="text-muted">{{ exp.position }}</span><br/>
+                            <span class="small text-muted">{{ exp.date }}</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
