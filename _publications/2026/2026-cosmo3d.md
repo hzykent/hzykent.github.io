@@ -7,16 +7,16 @@ pub:            "CVPR"
 pub_date:       "2026"
 cover:          /assets/images/covers/cosmo3d.png
 authors:
-  - Chenyu Liu
-  - Hongze Chen
-  - Jingzhi Bao
-  - Lingting Zhu
-  - Runze Zhang
+  - Li Jin
   - Weikai Chen
-  - Zeyu Hu
+  - Yujie Wang
   - Yingda Yin
+  - Zeyu Hu
+  - Runze Zhang
   - Keyang Luo
+  - Shengju Qian
   - Xin Wang
+  - Xueying Qin
 links:
   Code: https://github.com/JinLi998/CoSMo3D
 ---
