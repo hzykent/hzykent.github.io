@@ -11,6 +11,7 @@ email: "zhuam@connect.ust.hk"
 cv_link: /assets/data/CV_Zeyu_HU.pdf
 gscholar: 2QstgG4AAAAJ
 github: hzykent
+linkedin: zeyu-hu
 
 short_bio_text_justify: false
 short_bio: >-
@@ -42,13 +43,13 @@ education:
   date: Sep. 2014 - Jul. 2018
 
 experience:
-- name: Tencent, China
-  logo: /assets/images/badges/tencent.png
-  position: Research Intern
-  date: Aug. 2020 - Jan. 2023
 - name: Tencent, Singapore
   logo: /assets/images/badges/tencent.png
   position: Senior Researcher
   date: Mar. 2023 - Present
+- name: Tencent, China
+  logo: /assets/images/badges/tencent.png
+  position: Research Intern
+  date: Aug. 2020 - Jan. 2023
 
 awards:
