@@ -4,6 +4,7 @@ date:           2026-02-01 00:01:00 +0800
 selected:       True
 category:       "3D Scene Understanding"   # Choose from: 3D Generative AI, Motion Generative AI, 3D Scene Understanding, 3D Scene Reconstruction
 pub:            "CVPR"
+pub_last:       '<span class="badge badge-pill badge-publication badge-danger">Oral</span>'
 pub_date:       "2026"
 cover:          /assets/images/covers/cosmo3d.png
 authors:
